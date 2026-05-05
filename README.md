@@ -35,7 +35,7 @@ Além disso, o desenvolvimento do projeto contribuiu para o aprimoramento do rac
 
 # Funcionalidades:
 
-- Consumo de API REST real;
+- Consumo de API REST própria;
 - Autenticação e autorização de usuários;
 - CRUD completo com persistência em banco;
 - Arquitetura em camadas (Controller → Service → Repository);
